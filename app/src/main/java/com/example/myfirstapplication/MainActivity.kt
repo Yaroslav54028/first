@@ -18,5 +18,5 @@ import com.example.myfirstapplication.ui.theme.MyFirstApplicationTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)     }
+        super.onCreate(savedInstanceState)  6   }
     }
